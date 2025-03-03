@@ -118,7 +118,7 @@ CREATE POLICY "Users can only access their own body stats"
    npm run build
    ```
 
-2. Deploy the `client/dist` folder to your hosting provider of choice (Vercel, Netlify, etc.)
+2. Deploy the `dist` folder to your hosting provider of choice (Vercel, Netlify, etc.)
 
 ## License
 
